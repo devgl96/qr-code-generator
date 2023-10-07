@@ -1,5 +1,7 @@
 # QR Code Generator
 
+![Snapshot from QR Code Generator App](/design/qr-code-generator.jpg)
+
 ## Libraries
 
 - TailwindCSS
